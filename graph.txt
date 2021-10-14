@@ -1,0 +1,7 @@
+graph mygrap{ 
+A
+B
+C
+B--A
+B--B
+}
