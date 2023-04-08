@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T16:14:04.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0vzNbRypa5PjvzAPS0-i" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T16:14:51.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mtpKKd97drHT4yf5FHK_" version="21.1.5" type="github">
   <diagram name="Page-1" id="qFZczR5B3UI8Jo8uHC8d">
-    <mxGraphModel dx="2049" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hdSreOnBa91VfMqnHE0S-1" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-1" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="640" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-2" value="Создание перечня ссылок,&amp;nbsp;&lt;br&gt;соответствующих&amp;nbsp;&lt;br&gt;с технологическими операциями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-2" value="Создание перечня ссылок,&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;соответствующих&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;с технологическими операциями" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-3" value="Создание страниц таблицы перечня оборудования &lt;br&gt;по каждой технологической операции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-3" value="Создание страниц таблицы перечня оборудования &lt;br style=&quot;font-size: 15px;&quot;&gt;по каждой технологической операции&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-4" value="Выгрузка таблицы оборудования&amp;nbsp;&lt;br&gt;из базы данных&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-4" value="Выгрузка таблицы оборудования&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;из базы данных&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-5" value="Обработка сообщений удаления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-5" value="Обработка сообщений удаления" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-6" value="Создание страниц добавления данных&lt;br&gt;в базу данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-6" value="Создание страниц добавления данных&lt;br style=&quot;font-size: 15px;&quot;&gt;в базу данных" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-7" value="Создание страниц изменения данных&lt;br&gt;в базе данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-7" value="Создание страниц изменения данных&lt;br style=&quot;font-size: 16px;&quot;&gt;в базе данных" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="920" y="520" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-8" value="Сообщение&lt;br&gt;подтверждения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-8" value="Сообщение&lt;br style=&quot;font-size: 15px;&quot;&gt;подтверждения" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="640" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-9" value="Данные об оборудовании&amp;nbsp;&lt;br&gt;в базе данных (MYSQL)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-9" value="Данные об оборудовании&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;в базе данных (MYSQL)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="640" y="760" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-10" value="Возвращение &lt;br&gt;на основную страницу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-10" value="Возвращение &lt;br style=&quot;font-size: 15px;&quot;&gt;на основную страницу" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="920" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hdSreOnBa91VfMqnHE0S-11" value="КОНЕЦ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hdSreOnBa91VfMqnHE0S-11" value="КОНЕЦ" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="640" y="1040" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
