@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T15:02:48.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uWiY8BhUJZSEKj3QkR7F" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T15:09:15.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QXV67Ps1_HdQ9R_cyxDQ" version="21.1.5" type="github">
   <diagram name="Page-1" id="Mj25eBMRVsyRUsFsZYLs">
     <mxGraphModel dx="2607" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-3">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 20px;&quot;&gt;База&amp;nbsp; оборудования &lt;br style=&quot;font-size: 20px;&quot;&gt;для выполнения технических операций&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-2" value="Нанесение &lt;br style=&quot;font-size: 20px;&quot;&gt;паяльной пасты" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-3" target="ikU8lWJFKBPcYdBVzW3l-10">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-3" target="ikU8lWJFKBPcYdBVzW3l-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-3" target="ikU8lWJFKBPcYdBVzW3l-9">
@@ -64,7 +64,7 @@
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-9" value="Автоматическая установка&lt;br style=&quot;font-size: 20px;&quot;&gt;компонентов&lt;br style=&quot;font-size: 20px;&quot;&gt;на печатную плату" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-10" target="ikU8lWJFKBPcYdBVzW3l-26">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-10" target="ikU8lWJFKBPcYdBVzW3l-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-10" target="ikU8lWJFKBPcYdBVzW3l-15">
@@ -106,16 +106,16 @@
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-24" value="&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;Фото установки" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="920" y="280" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-21">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-20">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-22">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-19">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-26" target="ikU8lWJFKBPcYdBVzW3l-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-26" value="&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;Фото установки" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;" vertex="1" parent="1">
