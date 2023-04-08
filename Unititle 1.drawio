@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T14:47:51.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vPcN8S8OjTqis-PVk80I" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T14:48:01.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="s5eZ6VVPxGvSwM_p3vfT" version="21.1.5" type="github">
   <diagram name="Page-1" id="Mj25eBMRVsyRUsFsZYLs">
     <mxGraphModel dx="2206" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-12" value="Пайка&lt;br&gt;компонентов в печи" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="640" y="760" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-15" value="&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;Фото установки" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-15" value="&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;Фото установки" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="920" y="120" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=20;" vertex="1" parent="1">
