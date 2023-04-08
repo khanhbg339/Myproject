@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T14:37:32.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MHJAPUBQecZpXAZPLHUO" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T14:38:27.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="l2apJlEed7Kgx2dizaCI" version="21.1.5" type="github">
   <diagram name="Page-1" id="Mj25eBMRVsyRUsFsZYLs">
     <mxGraphModel dx="2206" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-1" value="&lt;font face=&quot;Tahoma&quot;&gt;База&amp;nbsp; оборудования для выполнения технических операций&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-1" value="&lt;font face=&quot;Tahoma&quot;&gt;База&amp;nbsp; оборудования &lt;br&gt;для выполнения технических операций&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-2" value="Нанесение &lt;br&gt;паяльной пасты" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-4" value="Формовка вывода компонентов" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
