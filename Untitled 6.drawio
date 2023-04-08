@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T16:16:06.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SCXIlHTQcN8IbRmx_Dl5" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T16:16:13.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="r_NZjxGqdLMm_4p5MzWZ" version="21.1.5" type="github">
   <diagram name="Page-1" id="qFZczR5B3UI8Jo8uHC8d">
     <mxGraphModel dx="1912" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="640" y="1040" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdSreOnBa91VfMqnHE0S-12" value="Ручной ввод&lt;br style=&quot;font-size: 15px;&quot;&gt;данных оборудования" style="shape=manualInput;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="680" width="160" height="120" as="geometry" />
+          <mxGeometry x="310" y="680" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
