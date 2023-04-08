@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T15:57:23.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iJwhvtp3y_7GN0N2aJwS" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T15:58:05.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="T0s_wOropsiI1N4JRD3a" version="21.1.5" type="github">
   <diagram name="Page-1" id="8wOq9gKMgsroS9lOQ_Xg">
     <mxGraphModel dx="2049" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="F7DOe3f4gSxOKFVeKhd5-2" value="Поиск &lt;br style=&quot;font-size: 25px;&quot;&gt;по названию" style="shape=manualInput;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="F7DOe3f4gSxOKFVeKhd5-3" value="Поиск&amp;nbsp;&lt;br style=&quot;font-size: 25px;&quot;&gt;по требуемой операции" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
