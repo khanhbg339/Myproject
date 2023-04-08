@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T16:36:53.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KETrQMc_KUezH8ZbpDcY" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T16:38:19.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8-zRdJOZQsqn-6GDbDG5" version="21.1.5" type="github">
   <diagram name="Page-1" id="cMm6MIYfkvFpgvSu37Bc">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,26 +19,72 @@
         <mxCell id="AUxa01VgVIh-RqmxJZG5-2" value="Создание каталога управляющих объектов (список кнопок),&lt;br&gt;соответствующих &lt;br&gt;с технологическими операциями" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-3" target="AUxa01VgVIh-RqmxJZG5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-3" value="Создание главных страниц&amp;nbsp;&lt;br&gt;для таблиц с оборудованием&lt;br&gt;для соответствующих операций" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-4" target="AUxa01VgVIh-RqmxJZG5-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-4" value="Создание каталога управляющих&lt;br&gt;фильтров&lt;br&gt;(По фирме, по цене,...)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="760" y="280" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-5" target="AUxa01VgVIh-RqmxJZG5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-5" target="AUxa01VgVIh-RqmxJZG5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-5" value="Выгрузка таблицы с перечнем оборудования" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-6" target="AUxa01VgVIh-RqmxJZG5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-6" value="Создание страницы для осмотра&lt;br&gt;подробной информации &lt;br&gt;по каждому оборудованию" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="620" />
+              <mxPoint x="720" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-7" target="AUxa01VgVIh-RqmxJZG5-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-7" value="Создание управляющих кнопок&lt;br&gt;для редактирования данных" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="760" y="520" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-11" value="Обработка сообщений управляющей кнопки и переход&lt;br&gt;на страницу авторизации" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="520" width="240" height="80" as="geometry" />
+          <mxGeometry x="1040" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-12" target="AUxa01VgVIh-RqmxJZG5-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-12" value="Показание полной информации&amp;nbsp;&lt;br&gt;по каждому оборудованию" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="600" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-13" target="AUxa01VgVIh-RqmxJZG5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUxa01VgVIh-RqmxJZG5-13" target="AUxa01VgVIh-RqmxJZG5-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-13" value="Данные об оборудовании&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;в базе данных (MYSQL)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-22" value="КОНЕЦ" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="640" y="760" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
