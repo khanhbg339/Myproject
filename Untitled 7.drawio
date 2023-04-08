@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T16:36:22.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tdvqardbsNV1i2e1vr5o" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T16:36:53.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KETrQMc_KUezH8ZbpDcY" version="21.1.5" type="github">
   <diagram name="Page-1" id="cMm6MIYfkvFpgvSu37Bc">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="AUxa01VgVIh-RqmxJZG5-11" value="Обработка сообщений управляющей кнопки и переход&lt;br&gt;на страницу авторизации" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="1080" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AUxa01VgVIh-RqmxJZG5-12" value="Показание полной информации&amp;nbsp;&lt;br&gt;по каждому оборудованию" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
