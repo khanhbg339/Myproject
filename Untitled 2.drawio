@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T15:43:24.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F-ssvaWn8N8sLQbw3nZk" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T15:45:25.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="p3Rxzfgw7KS59jB3BkTz" version="21.1.5" type="github">
   <diagram name="Page-1" id="gwRJkDVqaiKRy6oF_14v">
     <mxGraphModel dx="2868" dy="1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -10,22 +10,22 @@
         <mxCell id="XXtr5wNKZ4keudqAMnOT-38" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Формовка выводов&lt;br&gt;компонентов&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXtr5wNKZ4keudqAMnOT-42" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Формовка выводов&lt;br&gt;компонентов&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XXtr5wNKZ4keudqAMnOT-42" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Нанесение паяльной пасты&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXtr5wNKZ4keudqAMnOT-43" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Формовка выводов&lt;br&gt;компонентов&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XXtr5wNKZ4keudqAMnOT-43" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Установка компонентов&lt;br&gt;на печатную плату&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="440" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXtr5wNKZ4keudqAMnOT-44" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Формовка выводов&lt;br&gt;компонентов&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XXtr5wNKZ4keudqAMnOT-44" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Пайка&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="640" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXtr5wNKZ4keudqAMnOT-45" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Формовка выводов&lt;br&gt;компонентов&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XXtr5wNKZ4keudqAMnOT-45" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Разделение &lt;br&gt;групповой заготовки&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="840" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXtr5wNKZ4keudqAMnOT-46" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Формовка выводов&lt;br&gt;компонентов&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XXtr5wNKZ4keudqAMnOT-46" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Отмывка ячеек&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="1040" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXtr5wNKZ4keudqAMnOT-47" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Формовка выводов&lt;br&gt;компонентов&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XXtr5wNKZ4keudqAMnOT-47" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Сушка ячеек&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="1240" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
