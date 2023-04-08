@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T16:20:33.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tY9w3pCtJ3QDSRdPdVtc" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T16:22:03.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="l4Urbm9LR980x9tvfe7p" version="21.1.5" type="github">
   <diagram name="Page-1" id="qFZczR5B3UI8Jo8uHC8d">
-    <mxGraphModel dx="2390" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="667" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,12 +51,22 @@
         <mxCell id="hdSreOnBa91VfMqnHE0S-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hdSreOnBa91VfMqnHE0S-8" target="hdSreOnBa91VfMqnHE0S-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-33" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdSreOnBa91VfMqnHE0S-25">
+          <mxGeometry x="-0.2767" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hdSreOnBa91VfMqnHE0S-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hdSreOnBa91VfMqnHE0S-8" target="hdSreOnBa91VfMqnHE0S-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="880" />
               <mxPoint x="560" y="440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-34" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdSreOnBa91VfMqnHE0S-31">
+          <mxGeometry x="-0.5552" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hdSreOnBa91VfMqnHE0S-8" value="Сообщение&lt;br style=&quot;font-size: 15px;&quot;&gt;подтверждения" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
@@ -106,6 +116,11 @@
         <mxCell id="hdSreOnBa91VfMqnHE0S-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hdSreOnBa91VfMqnHE0S-15" target="hdSreOnBa91VfMqnHE0S-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-37" value="Управляющая кнопка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdSreOnBa91VfMqnHE0S-20">
+          <mxGeometry x="0.0806" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hdSreOnBa91VfMqnHE0S-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hdSreOnBa91VfMqnHE0S-15" target="hdSreOnBa91VfMqnHE0S-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -114,12 +129,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-35" value="Добавляющая кнопка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdSreOnBa91VfMqnHE0S-21">
+          <mxGeometry x="0.4419" y="1" relative="1" as="geometry">
+            <mxPoint x="17" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hdSreOnBa91VfMqnHE0S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hdSreOnBa91VfMqnHE0S-15" target="hdSreOnBa91VfMqnHE0S-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="640" />
               <mxPoint x="1040" y="640" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-36" value="Изменяющая кнопка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hdSreOnBa91VfMqnHE0S-22">
+          <mxGeometry x="0.1965" y="2" relative="1" as="geometry">
+            <mxPoint x="37" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hdSreOnBa91VfMqnHE0S-15" value="Создание интерфейса взаимодействия с базой данных&lt;br&gt;(Добавление, удаление &lt;br&gt;и изменение)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Tahoma;" vertex="1" parent="1">
