@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T16:04:41.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.5" etag="oCW8wirPThFlwJnGtZ0f" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T16:09:04.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="n-prrrrpX0COtFtm8qSt" version="21.1.5" type="github">
   <diagram name="Page-1" id="qFZczR5B3UI8Jo8uHC8d">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hdSreOnBa91VfMqnHE0S-1" value="НАЧАЛО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-2" value="Создание перечня ссылок,&amp;nbsp;&lt;br&gt;соответствующих&amp;nbsp;&lt;br&gt;с технологическими операциями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-3" value="Создание страниц таблицы перечня оборудования &lt;br&gt;по каждой технологической операции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-4" value="Выгрузка таблицы оборудования&amp;nbsp;&lt;br&gt;из базы данных&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-5" value="Создание перечня ссылок,&amp;nbsp;&lt;br&gt;соответствующих&amp;nbsp;&lt;br&gt;с технологическими операциями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hdSreOnBa91VfMqnHE0S-6" value="Создание перечня ссылок,&amp;nbsp;&lt;br&gt;соответствующих&amp;nbsp;&lt;br&gt;с технологическими операциями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
