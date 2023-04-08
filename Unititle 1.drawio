@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T14:54:29.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Q4_03acW6dVkCaTApkFP" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T14:55:31.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Vbv8w9zDyo7pJ600O2qx" version="21.1.5" type="github">
   <diagram name="Page-1" id="Mj25eBMRVsyRUsFsZYLs">
     <mxGraphModel dx="2206" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikU8lWJFKBPcYdBVzW3l-1" target="ikU8lWJFKBPcYdBVzW3l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 20px;&quot;&gt;База&amp;nbsp; оборудования &lt;br style=&quot;font-size: 20px;&quot;&gt;для выполнения технических операций&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="200" height="120" as="geometry" />
         </mxCell>
