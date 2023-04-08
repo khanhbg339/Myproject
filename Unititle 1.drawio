@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T14:39:53.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PCM3bJpbRbw4Qj0olxFl" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T14:39:58.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CAO9CU0SC-Kvf-i-FRGH" version="21.1.5" type="github">
   <diagram name="Page-1" id="Mj25eBMRVsyRUsFsZYLs">
     <mxGraphModel dx="2206" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-2" value="Нанесение &lt;br&gt;паяльной пасты" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ikU8lWJFKBPcYdBVzW3l-3" value="Установка компонентов&amp;nbsp;&lt;br&gt;на печатную плату" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ikU8lWJFKBPcYdBVzW3l-3" value="Установка &lt;br&gt;компонентов&amp;nbsp;&lt;br&gt;на печатную плату" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ikU8lWJFKBPcYdBVzW3l-4" value="Формовка &lt;br&gt;вывода компонентов" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=15;" vertex="1" parent="1">
